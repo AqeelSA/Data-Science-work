@@ -19,10 +19,15 @@ No the all 3 search engine have different suggestion.sum suggestion are same  bu
 4.Which site is listed in the top 5 results of all 3 search engines?
 
 The top 5 search engine are here their are 2 engines are in top 5 google and bing 
+
 1.Google
+
 2.Bing
+
 3.Yahoo
+
 4.Baidu
+
 5.Yandex
 
 7.Do you think that the order of the websites in the search results is important?
