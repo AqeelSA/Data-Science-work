@@ -5,15 +5,19 @@
 ![google](https://user-images.githubusercontent.com/80625836/116005161-292dda80-a61f-11eb-8ebd-9b1d7fa543cb.png)
 
 1.What do you observe in the list of suggestion? Are there any patterns?
+
 No their is no pattern in search engines.
 
 2.Which search engine's list of suggestion is better and why?
+
 In my opinion i thnik google have more guggestion and better suggestion has compare to other 2 that why i like google and google have big paltform of searching thing's and google are more populer search engine then other 2.
 
 3.Do all search engines return the same result?
+
 No the all 3 search engine have different suggestion.sum suggestion are same  but allover they are not same.
 
 4.Which site is listed in the top 5 results of all 3 search engines?
+
 The top 5 search engine are here their are 2 engines are in top 5 google and bing 
 1.Google
 2.Bing
@@ -22,6 +26,7 @@ The top 5 search engine are here their are 2 engines are in top 5 google and bin
 5.Yandex
 
 7.Do you think that the order of the websites in the search results is important?
+
 YES its hlep you to find out the best way to understand 
 
 12. Try to find which mechanism / formula / algorithm(s) are being used to order the results.
